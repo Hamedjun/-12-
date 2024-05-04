@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "𝐣𝐞 𝐯𝐨𝐮𝐬 𝐫𝐞𝐦𝐞𝐫𝐜𝐢𝐞 𝐝𝐞 𝐦'𝐚𝐯𝐨𝐢𝐫 𝐚𝐣𝐨𝐮𝐭𝐞𝐫 𝐝𝐚𝐧𝐬 𝐯𝐨𝐭𝐫𝐞 𝐠𝐫𝐨𝐮𝐩𝐞..🙂\n𝐯𝐨𝐢𝐥𝐚̀ 𝐦𝐨𝐧 𝐩𝐫𝐞𝐟𝐢𝐱 ➬: %1\n𝐬𝐢 𝐭𝐮 𝐯𝐞𝐮𝐱 𝐯𝐨𝐢𝐫 𝐦𝐚 𝐥𝐢𝐬𝐭𝐞 𝐝𝐞 𝐜𝐦𝐝 𝐞́𝐜𝐫𝐢𝐭 r: %1help",
-			multiple1: "you",
-			multiple2: "you guys",
-			defaultWelcomeMessage: `➬𝐬𝐚𝐥𝐮𝐭(.!.) {userName}.\n𝐣𝐞 𝐯𝐨𝐮𝐬 𝐬𝐨𝐮𝐡𝐚𝐢𝐭𝐞 𝐥𝐚 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐮𝐞 {multiple} 𝐝𝐚𝐧𝐬 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 : {boxName}\n𝐩𝐚𝐬𝐬𝐞𝐫 𝐮𝐧𝐞 𝐞𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐭𝐞 𝐣𝐨𝐮𝐫𝐧𝐞́𝐞.. {session} 😊`
+			welcomeMessage: "𝐬𝐚𝐥𝐮𝐭, 𝐦𝐨𝐢 𝐜'𝐞𝐬𝐭 ✰..🅗🅐🅜🅔🅓.✰☄ 𝐣𝐞 𝐯𝐨𝐮𝐬 𝐫𝐞𝐦𝐞𝐫𝐜𝐢𝐞 𝐩𝐨𝐮𝐫 𝐯𝐨𝐭𝐫𝐞 𝐢𝐧𝐯𝐢𝐭𝐚𝐭𝐢𝐨𝐧 \n𝗣𝗥𝗘𝗙𝗜𝗫 ☞ %1\n𝐩𝐨𝐮𝐫 𝐩𝐥𝐮𝐬 𝐝'𝐢𝐧𝐟𝐨𝐬 𝐬𝐮𝐫 𝐦𝐞𝐬 𝐜𝐦𝐝 𝐞́𝐜𝐫𝐢𝐭 𝐣𝐮𝐬𝐭𝐞 ☞ %1help",
+			multiple1: "",
+			multiple2: "",
+			defaultWelcomeMessage: `𝐬𝐚𝐥𝐮𝐭  {userName}.\n𝐦𝐨𝐢 𝐜'𝐞𝐬𝐭 ✰..🅗🅐🅜🅔🅓.✰☄ 𝐣𝐞 𝐯𝐨𝐮𝐬 𝐬𝐨𝐮𝐡𝐚𝐢𝐭𝐞 𝐥𝐚 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐮𝐞 𝐝𝐚𝐧𝐬 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 ☞{boxName}\n𝐣'𝐞𝐬𝐩𝐞̀𝐫𝐞 𝐪𝐮𝐞 𝐭𝐮 𝐯𝐚𝐬 𝐩𝐚𝐬𝐬𝐞𝐫 𝐮𝐧𝐞 𝐛𝐞𝐥𝐥𝐞 𝐬𝐨𝐢𝐫𝐞́𝐞 😌👈🏼`
 		}
 	},
 
@@ -130,4 +130,5 @@ module.exports = {
 			};
 	}
 };
-					
+
+				
